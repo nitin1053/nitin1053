@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Jha</h1>
 <h3 align="center">Hello! It's nice to meet you. I have a strong background in software development with expertise in Java and Python, which are both valuable programming languages. Additionally, your enthusiasm for AI and machine learning is great, as these fields are rapidly growing and evolving</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207..](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s).">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin1053&label=Profile%20views&color=0e75b6&style=flat" alt="nitin1053" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning Models**
