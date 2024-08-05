@@ -23,6 +23,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mgXKG_GBCDK_MSGH7hNZoucpKijF5LcN/view?usp=sharing](https://drive.google.com/file/d/1mgXKG_GBCDK_MSGH7hNZoucpKijF5LcN/view?usp=sharing)
 
 - ⚡ Fun fact **Morning time with coding, evening time with bug fixing, Night time for deployment.**
+- ⚡ Deployed E-commerce Website at [https://vercel.com/nitin1053s-projects/kon-kon-e-commerce]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
